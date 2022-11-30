@@ -13,3 +13,11 @@
     background-color: rgba(255, 255, 255, 1);
     color: #000629;
 }
+
+@media screen and (max-width:559px)
+    {
+        .noquestion
+        {
+            font-size:25px;
+        }
+    }
