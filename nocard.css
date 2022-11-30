@@ -14,10 +14,15 @@
     color: #000629;
 }
 
-@media screen and (max-width:559px)
+@media screen and (max-width:559px) 
+{
+    .noquestion
     {
-        .noquestion
-        {
-            font-size:25px;
-        }
+        font-size: 25px;
+    }  
+    
+    footer
+    {
+        bottom: 0;
     }
+}
