@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+ul li
+{
+    list-style-image:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 10 10"><circle fill="white" cx="7" cy="7" r="2"/></svg>');
+}
+
+ul li h2::selection
+{
+    background-color: rgba(255, 255, 255, 1);
+    color: #000629;
+}
+
+section .regra
+{
+    text-align: center;
+    font-size: 30px;
+}

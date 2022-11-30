@@ -1,0 +1,15 @@
+.noquestion
+{
+    font-size: 50px;
+    text-align: center;
+}
+.navnoquestion
+{
+    margin-top: 200px;
+}
+
+.noquestion::selection
+{
+    background-color: rgba(255, 255, 255, 1);
+    color: #000629;
+}
